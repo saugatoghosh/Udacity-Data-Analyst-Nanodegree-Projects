@@ -1,0 +1,16 @@
+References used in analysing the red wine dataset
+
+Wikipedia article on acids in wines : https://en.wikipedia.org/wiki/Acids_in_wine
+
+Article on pH in wines: https://winemakermag.com/547-phiguring-out-ph
+
+Article on alcohol in wines: http://www.winespectator.com/drvinny/show/id/5281
+
+Wikipedia article on sweetness in wines: https://en.wikipedia.org/wiki/Sweetness_of_wine
+
+Article on sulfur-dioxide in wines: http://www.aromadictionary.com/articles/sulfurdioxide_article.html
+
+The original paper cited ('Modeling wine preferences by data mining from physicochemical properties'): http://www.sciencedirect.com/science/article/pii/S0167923609001377
+
+Description of variables :
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
