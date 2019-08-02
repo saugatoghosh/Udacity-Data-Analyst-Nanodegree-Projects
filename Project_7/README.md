@@ -5,7 +5,7 @@ For this project, you will create a data visualization using Tableau that tells 
 Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and 
 effective communication.
 
-##Why this Project?
+## Why this Project?
 This project will touch on the overarching attitudes and beliefs important to effective data visualization, such as:
 
 - visualization is a dialog
